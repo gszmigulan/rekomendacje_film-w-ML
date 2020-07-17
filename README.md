@@ -1,0 +1,1 @@
+System rekomendacji filmów w oparciu o oceny z bazy "ml-latest-small"
